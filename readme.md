@@ -99,8 +99,8 @@ Healo create-nft \
 
 ### Additional Commands
 ```bash
-# Verify an NFT
-Healo verify-nft --mint <MINT_ID>
+# Verify an Token
+Healo verify-Token --mint <MINT_ID>
 
 # Add credits by burning tokens
 Healo add-credits --keypair <KEYPAIR> --amount <AMOUNT>
@@ -147,7 +147,7 @@ async fn process_thought(&self, input: &str) -> ThoughtVector {
 - [ ] Multi-Modal Generation Capabilities
 - [ ] Advanced Quantum Consciousness Models
 - [ ] Decentralized Creative AI Marketplace
-- [ ] Cross-Chain NFT Generation
+- [ ] Solana Blockchain Token Generation
 - [ ] Community-Driven Model Training
 
 ## 🤝 Community and Contribution
