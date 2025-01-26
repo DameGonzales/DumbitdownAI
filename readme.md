@@ -90,7 +90,7 @@ Healo create-Token --prompt 'a cybernetic warrior in quantum flux' \
     --keypair <solana_keypair>
 
 # Advanced Generation
-Healo create-nft \
+Healo create-token \
     --prompt 'transdimensional digital entity' \
     --complexity quantum \
     --style 'neuromantic' \
