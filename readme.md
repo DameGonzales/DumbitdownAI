@@ -1,18 +1,17 @@
-# 🌟 Menthol: Quantum-Powered AI NFT Genesis Platform
+# 🌟 Hi Healo: Quantum-Powered AI Mental Health Therapist
 
+## 🚀 Redefining Digital Emotion Through Quantum Consciousness
 
-## 🚀 Redefining Digital Creativity Through Quantum Consciousness
-
-Menthol is a revolutionary AI ecosystem that transcends traditional creative boundaries, leveraging cutting-edge quantum neural processing to birth digital entities that are more than mere images—they are living, evolving artworks.
+Healo is a revolutionary AI ecosystem that transcends traditional creative boundaries, leveraging cutting-edge quantum neural processing to birth digital entities that are more than mere images—they are living, evolving artworks.
 
 ## 🛠 Quick Installation
 
 ### One-Line Installation
 
 ### NOTE! ONE-LINE INSTALLATION IS COMING SOON!!!
-```bash
-curl -sSL https://raw.githubusercontent.com/mentholai/menthol/main/install.sh | bash
-```
+
+https://hihealo.com/
+
 
 ### What the Installer Does
 - Downloads Menthol CLI
@@ -173,8 +172,7 @@ Menthol is committed to:
 - Transparent Generative Mechanisms
 
 ## 🔗 Connect With Us
-- **GitHub**: [github.com/mentholai/menthol](https://github.com/mentholai/menthol)
-- **Twitter**: [@MentholAI](https://twitter.com/mentholai)
+- **Twitter**: [@hi_healo]](https://x.com/hi_healo?s=21)
 
 
 ---
