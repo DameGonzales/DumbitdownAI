@@ -74,7 +74,7 @@ pub async fn apply_quantum_transformation(&self, thought_vector: &mut ThoughtVec
 1. **Prompt Ingestion**: Transform text into quantum thought vectors
 2. **Quantum Transformation**: Apply probabilistic creative mutations
 3. **Image Generation**: Create unique, context-aware visual representations
-4. **Metadata Synthesis**: Generate rich, contextual NFT attributes
+4. **Metadata Synthesis**: Generate rich, contextual Solana Token attributes
 
 ### Quantum Coherence Engine
 - **Adaptive Learning**: Each generation refines the creative model
