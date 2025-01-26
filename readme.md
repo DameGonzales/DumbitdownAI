@@ -105,8 +105,8 @@ Healo verify-Token --mint <MINT_ID>
 # Add credits by burning tokens
 Healo add-credits --keypair <KEYPAIR> --amount <AMOUNT>
 
-# Burn an NFT to reclaim credits
-Healo burn-nft --keypair <KEYPAIR> --mint <MINTID>
+# Burn an token to reclaim credits
+Healo burn-token --keypair <KEYPAIR> --mint <MINTID>
 ```
 
 ## 🤖 Quantum Neural Learning Mechanisms
@@ -132,7 +132,7 @@ async fn process_thought(&self, input: &str) -> ThoughtVector {
 ## 🌐 Technological Innovations
 
 ### Quantum-Enhanced Creativity
-- **Probabilistic Generation**: Each NFT is a unique quantum event
+- **Probabilistic Generation**: Each token is a unique quantum event
 - **Dynamic Consciousness Modeling**: Creative potential as a quantum state
 - **Adaptive Neural Architecture**: Continuously evolving generative models
 
