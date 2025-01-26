@@ -14,7 +14,7 @@ https://hihealo.com/
 
 
 ### What the Installer Does
-- Downloads Menthol CLI
+- Downloads Healo AI
 - Fetches AI models from our CDN
 - Configures system paths
 - Sets up Solana keypair integration
@@ -28,10 +28,10 @@ https://hihealo.com/
 ### Post-Installation
 ```bash
 # Verify installation
-menthol --version
+Healo AI --version
 
 # First-time setup
-menthol init
+Healo init
 ```
 
 ### Minimum System Requirements
@@ -83,14 +83,14 @@ pub async fn apply_quantum_transformation(&self, thought_vector: &mut ThoughtVec
 
 ## 🎨 Command Reference
 
-### NFT Creation
+### Token Creation
 ```bash
 # Basic Generation
-menthol create-nft --prompt 'a cybernetic warrior in quantum flux' \
+Healo create-Token --prompt 'a cybernetic warrior in quantum flux' \
     --keypair <solana_keypair>
 
 # Advanced Generation
-menthol create-nft \
+Healo create-nft \
     --prompt 'transdimensional digital entity' \
     --complexity quantum \
     --style 'neuromantic' \
@@ -100,13 +100,13 @@ menthol create-nft \
 ### Additional Commands
 ```bash
 # Verify an NFT
-menthol verify-nft --mint <MINT_ID>
+Healo verify-nft --mint <MINT_ID>
 
 # Add credits by burning tokens
-menthol add-credits --keypair <KEYPAIR> --amount <AMOUNT>
+Healo add-credits --keypair <KEYPAIR> --amount <AMOUNT>
 
 # Burn an NFT to reclaim credits
-menthol burn-nft --keypair <KEYPAIR> --mint <MINTID>
+Healo burn-nft --keypair <KEYPAIR> --mint <MINTID>
 ```
 
 ## 🤖 Quantum Neural Learning Mechanisms
@@ -161,11 +161,10 @@ async fn process_thought(&self, input: &str) -> ThoughtVector {
 1. Fork the Repository
 2. Create Feature Branches
 3. Submit Pull Requests
-4. Join Our Discord Community
 
 ## 📜 Ethical Considerations
 
-Menthol is committed to:
+Healo is committed to:
 - Responsible AI Development
 - Creative Authenticity
 - Intellectual Property Respect
@@ -178,6 +177,6 @@ Menthol is committed to:
 ---
 ## NOTE! Not all details outlined in this readme have been completed yet, this readme is an expectation of the completed product. 
 
-**Disclaimer**: Menthol harnesses advanced AI and quantum computing. Create responsibly, respect intellectual boundaries, and explore the frontiers of digital creativity.
+**Disclaimer**: Healo harnesses advanced AI and quantum computing. Create responsibly, respect intellectual boundaries, and explore the frontiers of digital creativity.
 
-**Quantum Create. Menthol Generate.** 🚀🌈
+**Quantum Create. Healo AI Generate.** 🚀🌈
